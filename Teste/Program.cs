@@ -14,6 +14,7 @@ namespace Teste
             var teste = "teste";
             var teste3 = "teste";
             var teste4 = "teste";
+            var teste5 = "teste";
         }
     }
 }
