@@ -11,6 +11,7 @@ namespace Teste
         static void Main(string[] args)
         {
             var ids = new List<int>();
+            var teste = "teste";
         }
     }
 }
