@@ -12,6 +12,7 @@ namespace Teste
         {
             var ids = new List<int>();
             var teste = "teste";
+            var teste3 = "teste";
         }
     }
 }
